@@ -14,10 +14,12 @@
  /**
   * En este punto, que valor tendrá 'variable4'. ¿Por qué? ¿Cómo podrías comprobarlo?
   */
+ 
 
-  variable2 = variable1;
-  variable4 = variable2 * 2;
+  variable2 = variable1; // Variable 2 = -7
+  variable4 = variable2 * 2; //Variable 4 = -14
 
+  console.log(variable4)
 /**
   * En este punto, que valor tendrá 'variable4'. ¿Por qué? ¿Cómo podrías comprobarlo?
   */
